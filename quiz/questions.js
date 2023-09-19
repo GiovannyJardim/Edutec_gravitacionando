@@ -27,7 +27,7 @@ export default [
         ]
     },
     {
-        question: "Qual é a lua mais próxima da Terra?",
+        question: "Quem classificou a galáxia messier 10 como Seyfert?",
         answers: [
             {option: "Titã", correct: false},
             {option: "Io", correct: false},

@@ -25,7 +25,6 @@ body::-webkit-scrollbar-track {
 /*cabeçario*/
 
 #cabecario2 {
-    /* Rectangle 29 */
     font-family:"TT Firs Neue Trl Bold";
     position: absolute;
     margin-top: 1.6rem;
@@ -33,7 +32,7 @@ body::-webkit-scrollbar-track {
     height: 9rem;
 }
 
-#textgay {
+#textg {
     margin-top: 3.5rem;
     margin-left: 30rem;
 }
@@ -131,9 +130,6 @@ body::-webkit-scrollbar-track {
     align-items: center;
     justify-content: center;
 }
-
-
-
 
 /*sobre nos*/
 
@@ -339,7 +335,7 @@ body::-webkit-scrollbar-track {
 
 /*Júpiter*/
 
-.teta_planeta {
+.jupter_planeta {
     width: 100%;
     height: 100%;
 }
@@ -355,7 +351,7 @@ body::-webkit-scrollbar-track {
     justify-content: left;
 }
 
-.teta_planeta {
+.jupter_planeta {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -363,6 +359,7 @@ body::-webkit-scrollbar-track {
     width: 100%;
     height: 100%;
     gap: 20rem;
+    margin-bottom: 10rem;
 }
 
 .titulo_jupiter {
@@ -372,7 +369,7 @@ body::-webkit-scrollbar-track {
     margin-bottom: 5rem;
 }
 
-.teta_planeta li {
+.jupter_planeta li {
     height: 3.2rem;
     font-size: 1.25rem;
     margin-bottom:0.25rem;
@@ -385,7 +382,7 @@ body::-webkit-scrollbar-track {
     height: 100%;
 }
 
-.terra_oreia {
+.terra_7 {
     width: 20rem;
     height: 20rem;
 }
@@ -467,7 +464,7 @@ body::-webkit-scrollbar-track {
     height: 100%;
 }
 
-.vinicius_oreia {
+.mercurio_333 {
     width: 20rem;
     height: 20rem;
 }
@@ -544,12 +541,12 @@ body::-webkit-scrollbar-track {
 
 /*Urano*/
 
-.azullllllllll {
+.urano_text {
     width: 100%;
     height: 100%;
 }
 
-.azuuuulllll2 {
+.urano_img {
     width: 20rem;
     height: 20rem;
 }
@@ -560,7 +557,7 @@ body::-webkit-scrollbar-track {
     justify-content: left;
 }
 
-.azullllllllll {
+.urano_text {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -577,7 +574,7 @@ body::-webkit-scrollbar-track {
     margin-bottom: 5rem;
 }
 
-.azullllllllll li {
+.urano_text li {
     height: 3.2rem;
     font-size: 1.25rem;
     margin-bottom:0.25rem;
@@ -717,7 +714,7 @@ body::-webkit-scrollbar-track {
     margin-bottom: 5rem;
 }
 
-.tilt_negro {
+.tilt_ngc {
     display: flex;
     align-items: left;
     justify-content: left;
@@ -736,7 +733,7 @@ body::-webkit-scrollbar-track {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 12rem;
+    gap: 10rem;
 }
 
 #pag_ngc3379 li {
@@ -881,13 +878,17 @@ body::-webkit-scrollbar-track {
     justify-content: center;
     width: 100%;
     height: 100%;
-    gap: 15rem;
+    gap: 5rem;
 }
 
 #pag_messier32 li {
     height: 3rem;
     font-size: 1.25rem;
     margin-bottom:0.25rem;
+}
+
+.messier_img {
+    transform: scale(1.5);
 }
 
 
@@ -1143,14 +1144,12 @@ body::-webkit-scrollbar-track {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid red;
     margin-top: 5rem;
 }
 
 .oreeeia {
     padding-top: 12rem;
     display: flex;
-    border: 1px solid red;
     justify-content: center;
 }
 
@@ -1162,4 +1161,6 @@ body::-webkit-scrollbar-track {
     font-size: 1.3rem;
     margin-top: 1.5rem;
     margin-inline: 1rem;
+    margin-left: 2rem;
+    margi: ;
 }
