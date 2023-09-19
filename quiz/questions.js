@@ -27,12 +27,12 @@ export default [
         ]
     },
     {
-        question: "Quem classificou a galáxia messier 10 como Seyfert?",
+        question: "Quem classificou a galáxia messier 106 como Seyfert?",
         answers: [
-            {option: "Titã", correct: false},
-            {option: "Io", correct: false},
-            {option: "Lua", correct: true},
-            {option: "Europa", correct: false},
+            {option: "Anna Menon", correct: false},
+            {option: "Albert Einstein", correct: false},
+            {option: "Carl Keenan", correct: true},
+            {option: "Annie Easley", correct: false},
         ]
     },
     {
