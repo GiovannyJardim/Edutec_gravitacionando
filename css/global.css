@@ -1,5 +1,3 @@
-
-
 /*barra de navegação*/
 
 ::-webkit-scrollbar{width:18px;height:5px;}
@@ -974,7 +972,7 @@ body::-webkit-scrollbar-track {
 
 /* #botao_quiz {
     position: absolute;
-    top: 85%;
+    top: 85%;   
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1;
@@ -1125,4 +1123,29 @@ body::-webkit-scrollbar-track {
     transform: translate(-50%, -50%);
     z-index: 1;
     font-size: 2.5rem;
+}
+
+/* pag inicial quiz */
+
+.corpoquiz {    
+
+}
+
+.imgquiz {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../imagens/retanguloquiz.svg');
+    background-repeat: no-repeat;
+    padding-top: 25rem;
+    margin: ;
+    width: fit-content;
+
+}
+
+#btaoquiz {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
 }
