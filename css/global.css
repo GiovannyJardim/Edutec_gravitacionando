@@ -1128,19 +1128,15 @@ body::-webkit-scrollbar-track {
 /* pag inicial quiz */
 
 .corpoquiz {    
-
-}
-
-.imgquiz {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('../imagens/retanguloquiz.svg');
-    background-repeat: no-repeat;
-    padding-top: 25rem;
-    margin: ;
-    width: fit-content;
-
+    height: 35rem;
+    width: 57rem;
+    background: linear-gradient(45deg, #e0aaff, #c77dff, #9d4edd, #7b2cbf);
+    border-radius: 2rem;
+    margin-bottom: 3rem;
+    flex-direction: column;
 }
 
 #btaoquiz {
@@ -1148,4 +1144,22 @@ body::-webkit-scrollbar-track {
     align-items: center;
     justify-content: center;
     border: 1px solid red;
+    margin-top: 5rem;
+}
+
+.oreeeia {
+    padding-top: 12rem;
+    display: flex;
+    border: 1px solid red;
+    justify-content: center;
+}
+
+#text_sec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 1.3rem;
+    margin-top: 1.5rem;
+    margin-inline: 1rem;
 }
